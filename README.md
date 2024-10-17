@@ -1,4 +1,3 @@
-![Screenshot 2024-10-17 202900](https://github.com/user-attachments/assets/1bf47eb2-d9df-4fde-a760-c7c5e3070e03)# Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
 
 # AIM:
